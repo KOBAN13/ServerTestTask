@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: FirstGame
+  m_EditorClassIdentifier: 
+  m_GroupName: FirstGame
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d6dbd64faa89c1344b4990f4bb13f5a5
+  m_SerializeEntries:
+  - m_GUID: a30dc93ec282e6b46bd4c55b0aba86fd
+    m_Address: icons8-button-96
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ad9dc7821e2318458f99aa046116639
+    m_Address: GameFirst
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fc0d4010bbf28b4594072e72b8655ab
+    m_Address: Menu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6a49d83ad109bc84b82b84485a40ba04, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 08524d97abd2c584f85e4f479902b487, type: 2}
+    - {fileID: 11400000, guid: e6ec2f68f6a133044b59e7a70473043e, type: 2}
